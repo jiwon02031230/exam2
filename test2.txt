@@ -1,0 +1,2 @@
+local에서 만든
+test2.txt 입니다.
