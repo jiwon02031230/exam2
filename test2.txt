@@ -1,2 +1,5 @@
 local에서 만든
 test2.txt 입니다.
+
+local에서 수정한 부분입니다.
+수정한 test2 문서!
